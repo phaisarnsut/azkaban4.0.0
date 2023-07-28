@@ -80,3 +80,11 @@ According to this thread [pegasus pom files no more available from linkedin bint
 'https://linkedin.bintray.com/maven'
 is no longer valid and needs to be replaced with 
 'https://linkedin.jfrog.io/artifactory/open-source/'
+
+## Cannot Fix issue
+According to this thread [[/] [Azkaban] unavailable com.google.inject.ConfigurationException: Guice configuration errors: #3031](https://github.com/azkaban/azkaban/issues/3031)
+
+1) No implementation for azkaban.imagemgmt.services.ImageRampupService was bound.
+  while locating azkaban.imagemgmt.services.ImageRampupService
+
+There is no one to solved this problem. '-_-
