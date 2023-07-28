@@ -73,3 +73,10 @@ make html
 
 **[July, 2018]** We are actively improving our documentation. Everyone in the AZ community is 
 welcome to submit a pull request to edit/fix the documentation.
+
+
+## Fix issue
+According to this thread [pegasus pom files no more available from linkedin bintray](https://github.com/azkaban/azkaban/issues/2899)
+'https://linkedin.bintray.com/maven'
+is no longer valid and needs to be replaced with 
+'https://linkedin.jfrog.io/artifactory/open-source/'
